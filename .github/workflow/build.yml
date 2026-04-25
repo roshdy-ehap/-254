@@ -1,4 +1,4 @@
-name: 🏗️ Build Mizan POS
+name: TEST ACTION
 
 on:
   push:
